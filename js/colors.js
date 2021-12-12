@@ -1,6 +1,4 @@
-var colorsArray : {
-    colors=[
-        {
+var colorsArray = [{
             "name":"green",
             "red":"64",
             "green":"175",
@@ -13,11 +11,11 @@ var colorsArray : {
             "blue":"62"
         },
         {
-            name:"red",
-            red:"192",
-            green:"46",
-            blue:"35"
-        }
+            "name":"red",
+            "red":"192",
+            "green":"46",
+            "blue":"35"
+        },
         {
             "name":"blue",
             "red":"19",
@@ -25,9 +23,11 @@ var colorsArray : {
             "blue":"144",
         },
         {
-            "name"="orange",
-            "red"="253",
-            "green"="92",
-            "blue"="48"
+            "name":"orange",
+            "red":"253",
+            "green":"92",
+            "blue":"48"
         },
     ]
+//console.log(colorsArray)
+// Debugged fixed syntax of object array.
